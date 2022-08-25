@@ -1,0 +1,5 @@
+com/buezman/springbootk8s/Springbootk8sApplication.class
+com/buezman/springbootk8s/service/OrderService.class
+com/buezman/springbootk8s/repository/OrderRepository.class
+com/buezman/springbootk8s/controller/OrderController.class
+com/buezman/springbootk8s/entity/Order.class
